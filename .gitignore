@@ -130,5 +130,5 @@ dmypy.json
 
 
 #personal
-app/app/calc.py                                                                        master  ✱
+app/app/calc.py
 app/app/tests.py
